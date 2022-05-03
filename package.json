@@ -4,7 +4,7 @@
   "description": "The custom theme for Bootstrap UI Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bastion-RND/cra-templates.git"
+    "url": "git+https://github.com/Bastion-RND/bootstrap-theme.git"
   },
   "keywords": [
     "bootstrap",
