@@ -1,0 +1,26 @@
+{
+  "name": "@bs-solutions/bootstrap-theme",
+  "version": "0.1.0",
+  "description": "The custom theme for Bootstrap UI Framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bastion-RND/cra-templates.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "style",
+    "sass",
+    "scss",
+    "theme"
+  ],
+  "author": "Dmitriy-U",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bastion-RND/bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/Bastion-RND/bootstrap-theme#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.51.0"
+  }
+}
